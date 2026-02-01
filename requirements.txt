@@ -1,0 +1,11 @@
+streamlit
+playwright
+pandas
+beautifulsoup4
+langchain
+langchain-core
+langchain-openai
+python-dotenv
+pydantic
+nest_asyncio
+lxml
